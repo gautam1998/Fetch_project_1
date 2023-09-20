@@ -1,0 +1,792 @@
+,OFFER,RETAILER,BRAND,PRODUCT_CATEGORY,IS_CHILD_CATEGORY_TO
+0,"Beyond Meat® Plant-Based products, spend $25",,BEYOND MEAT,Plant-Based Meat,Meat & Seafood
+1,"Beyond Steak™ Plant-Based seared tips, 10 ounce at Target",TARGET,BEYOND MEAT,Plant-Based Meat,Meat & Seafood
+2,"Beyond Steak™ Plant-Based seared tips, 10 ounce, buy 2 at H-E-B",H-E-B,BEYOND MEAT,Plant-Based Meat,Meat & Seafood
+3,"Beyond Steak™ Plant-Based seared tips, 10 ounce at H-E-B",H-E-B,BEYOND MEAT,Plant-Based Meat,Meat & Seafood
+4,"Beyond Steak™ Plant-Based seared tips, 10 ounce, buy 2 at Target",TARGET,BEYOND MEAT,Plant-Based Meat,Meat & Seafood
+5,"Beyond Meat® Plant-Based products, spend $15",,BEYOND MEAT,Plant-Based Meat,Meat & Seafood
+6,"Beyond Meat® Plant-Based products, spend $20",,BEYOND MEAT,Plant-Based Meat,Meat & Seafood
+7,"Beyond Meat® Plant-Based products, spend $25",,BEYOND MEAT,Frozen Plant-Based Meat,Frozen
+8,"Beyond Steak™ Plant-Based seared tips, 10 ounce at Target",TARGET,BEYOND MEAT,Frozen Plant-Based Meat,Frozen
+9,"Beyond Steak™ Plant-Based seared tips, 10 ounce, buy 2 at H-E-B",H-E-B,BEYOND MEAT,Frozen Plant-Based Meat,Frozen
+10,"Beyond Steak™ Plant-Based seared tips, 10 ounce at H-E-B",H-E-B,BEYOND MEAT,Frozen Plant-Based Meat,Frozen
+11,"Beyond Steak™ Plant-Based seared tips, 10 ounce, buy 2 at Target",TARGET,BEYOND MEAT,Frozen Plant-Based Meat,Frozen
+12,"Beyond Meat® Plant-Based products, spend $15",,BEYOND MEAT,Frozen Plant-Based Meat,Frozen
+13,"Beyond Meat® Plant-Based products, spend $20",,BEYOND MEAT,Frozen Plant-Based Meat,Frozen
+14,"Beyond Meat® Plant-Based products, spend $25",,BEYOND MEAT,Packaged Meat,Pantry
+15,"Beyond Steak™ Plant-Based seared tips, 10 ounce at Target",TARGET,BEYOND MEAT,Packaged Meat,Pantry
+16,"Beyond Steak™ Plant-Based seared tips, 10 ounce, buy 2 at H-E-B",H-E-B,BEYOND MEAT,Packaged Meat,Pantry
+17,"Beyond Steak™ Plant-Based seared tips, 10 ounce at H-E-B",H-E-B,BEYOND MEAT,Packaged Meat,Pantry
+18,"Beyond Steak™ Plant-Based seared tips, 10 ounce, buy 2 at Target",TARGET,BEYOND MEAT,Packaged Meat,Pantry
+19,"Beyond Meat® Plant-Based products, spend $15",,BEYOND MEAT,Packaged Meat,Pantry
+20,"Beyond Meat® Plant-Based products, spend $20",,BEYOND MEAT,Packaged Meat,Pantry
+21,"Tyson Products, select varieties, spend $20 at Sam's Club",SAMS CLUB,BALL PARK FRANK,Packaged Meat,Pantry
+22,GOYA® Coconut Water,,GOYA,Packaged Meat,Pantry
+23,"GOYA® Adobo Seasoning, 8 ounce+",,GOYA,Packaged Meat,Pantry
+24,"Tyson Products, select varieties, spend $15 at Walmart",WALMART,AIDELLS,Packaged Meat,Pantry
+25,Good Humor Viennetta Frozen Vanilla Cake,,GOOD HUMOR,Frozen Desserts,Frozen
+26,"Reese's Peanut Butter Bar, 6 count, at GIANT OR MARTIN’S",THE GIANT CO,GOOD HUMOR,Frozen Desserts,Frozen
+27,"Reese's Peanut Butter Bar, 6 count, at GIANT OR MARTIN’S",MARTINS FOODS,GOOD HUMOR,Frozen Desserts,Frozen
+28,"Sara Lee® bread, select varieties, buy 2 at Walmart®",WALMART,SARA LEE,Frozen Desserts,Frozen
+29,"Sara Lee® bread select varieties, buy 2",WALMART,SARA LEE,Frozen Desserts,Frozen
+30,"Sara Lee® Delightful bread, buy 2",,SARA LEE,Frozen Desserts,Frozen
+31,"Reese's Chocolate Cones, 8 count at GIANT OR MARTIN’S",MARTINS FOODS,KLONDIKE,Frozen Desserts,Frozen
+32,"Reese's Chocolate Cones, 8 count at GIANT OR MARTIN’S",GIANT FOOD,KLONDIKE,Frozen Desserts,Frozen
+33,"Klondike Cones, spend $10 at Walmart ",WALMART,KLONDIKE,Frozen Desserts,Frozen
+34,Klondike Cones at Walmart ,WALMART,KLONDIKE,Frozen Desserts,Frozen
+35,"Frutero Ice Cream, 1 pint",,FRUTERO,Frozen Desserts,Frozen
+36,Talenti Mini Bars,,TALENTI,Frozen Desserts,Frozen
+37,"Ben & Jerry's Frozen Creme Brulee Non Dairy Dessert, 16 ounce",,BEN AND JERRYS,Frozen Desserts,Frozen
+38,"Ben & Jerry's® Doggie Desserts, 4 count",,BEN AND JERRYS,Frozen Desserts,Frozen
+39,"Ben & Jerry's Frozen Sugar Cookie Dough Chunks, 8 ounce",,BEN AND JERRYS,Frozen Desserts,Frozen
+40,"Ben & Jerry's®, select varieties",,BEN AND JERRYS,Frozen Desserts,Frozen
+41,"Ben & Jerry's®, select varieties, spend $12",,BEN AND JERRYS,Frozen Desserts,Frozen
+42,"Ben & Jerry's® Doggie Desserts, 4 ounce, buy 2",,BEN AND JERRYS,Frozen Desserts,Frozen
+43,"Ben & Jerry's Wake & No Bake Cookie Dough Ice Cream, 16 ounce",,BEN AND JERRYS,Frozen Desserts,Frozen
+44,Ben & Jerry's® Churray For Churros™ Ice Cream,,BEN AND JERRYS,Frozen Desserts,Frozen
+45,"Magnum Non-Dairy Hazelnut Crunch Ice Cream Bars, 3 count",,MAGNUM ICE CREAM,Frozen Desserts,Frozen
+46,"Häagen-Dazs®, 28 ounce, at GROCERY* stores",,HAAGEN DAZS,Frozen Desserts,Frozen
+47,"Breyers Reese's Ice Cream, select varieties, at GIANT OR MARTIN’S",MARTINS FOODS,BREYERS,Frozen Desserts,Frozen
+48,Good Humor Viennetta Frozen Vanilla Cake,,GOOD HUMOR,Dips & Salsa,Snacks
+49,"Reese's Peanut Butter Bar, 6 count, at GIANT OR MARTIN’S",THE GIANT CO,GOOD HUMOR,Dips & Salsa,Snacks
+50,"Reese's Peanut Butter Bar, 6 count, at GIANT OR MARTIN’S",MARTINS FOODS,GOOD HUMOR,Dips & Salsa,Snacks
+51,Red Gold Tomato Ketchup,,RED GOLD,Dips & Salsa,Snacks
+52,Red Gold Tomato Juice,,RED GOLD,Dips & Salsa,Snacks
+53,"Hidden Valley® Ranch Salad Dressing OR Secret Sauce, select varieties",,HIDDEN VALLEY RANCH,Dips & Salsa,Snacks
+54,"Hidden Valley® Ranch Seasoning Mix Packet, 1 count",,HIDDEN VALLEY RANCH,Dips & Salsa,Snacks
+55,"Hidden Valley® Ranch Seasoning, select varieties",,HIDDEN VALLEY RANCH,Dips & Salsa,Snacks
+56,Hidden Valley® Ranch Seasoning Shaker,,HIDDEN VALLEY RANCH,Dips & Salsa,Snacks
+57,"Hidden Valley® Ranch Night Seasoning Mix, 1 count",,HIDDEN VALLEY RANCH,Dips & Salsa,Snacks
+58,"Chosen Foods® Mayo, select varieties",,CHOSEN FOODS,Dips & Salsa,Snacks
+59,Chosen Foods® Dressings,,CHOSEN FOODS,Dips & Salsa,Snacks
+60,GOYA® Coconut Water,,GOYA,Dips & Salsa,Snacks
+61,"GOYA® Adobo Seasoning, 8 ounce+",,GOYA,Dips & Salsa,Snacks
+62,"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Dips & Salsa,Snacks
+63,Tostitos® Toppers™,,TOSTITOS,Dips & Salsa,Snacks
+64,Nature Valley™ Protein Granola,,NATURE VALLEY,Dips & Salsa,Snacks
+65,"Butterball, select varieties, spend $10 at Dillons Food Store",DILLONS FOOD STORE,BUTTERBALL,Nut Butters & Jam,Pantry
+66,"Butterball, select varieties, spend $10 at Ralphs",RALPHS,BUTTERBALL,Nut Butters & Jam,Pantry
+67,"Butterball, select varieties, Spend $10 at Ruler Foods",RULER FOODS,BUTTERBALL,Nut Butters & Jam,Pantry
+68,"Butterball, select varieties, spend $10 at King Soopers",KING SOOPERS,BUTTERBALL,Nut Butters & Jam,Pantry
+69,"Butterball, select varieties, spend $10 at Fred Meyer",FRED MEYER,BUTTERBALL,Nut Butters & Jam,Pantry
+70,"Butterball, select varieties, spend $10 at Kroger",KROGER,BUTTERBALL,Nut Butters & Jam,Pantry
+71,"Butterball, select varieties, spend $10 at Smith's",SMITHS,BUTTERBALL,Nut Butters & Jam,Pantry
+72,"Butterball, select varieties, spend $10 at Food 4 Less",FOOD4LESS,BUTTERBALL,Nut Butters & Jam,Pantry
+73,"Butterball, select varieties, spend $10 at Fry's Food Store",FRYS FOOD STORE,BUTTERBALL,Nut Butters & Jam,Pantry
+74,"Butterball, select varieties, spend $10 at QFC",QFC,BUTTERBALL,Nut Butters & Jam,Pantry
+75,"Butterball, select varieties, spend $10 at Mariano's",MARIANOS,BUTTERBALL,Nut Butters & Jam,Pantry
+76,"Butterball, select varieties, spend $10 at Pick 'n Save OR Metro Market",PICK N SAVE,BUTTERBALL,Nut Butters & Jam,Pantry
+77,Country Crock® Plant Based Butter at Walmart,WALMART,COUNTRY CROCK PLANT BUTTER,Nut Butters & Jam,Pantry
+78,Country Crock® Plant Based Cream at Walmart,WALMART,COUNTRY CROCK PLANT BUTTER,Nut Butters & Jam,Pantry
+79,GOYA® Coconut Water,,GOYA,Nut Butters & Jam,Pantry
+80,"GOYA® Adobo Seasoning, 8 ounce+",,GOYA,Nut Butters & Jam,Pantry
+81,Nature Valley™ Protein Granola,,NATURE VALLEY,Nut Butters & Jam,Pantry
+82,"Butterball, select varieties, spend $10 at Dillons Food Store",DILLONS FOOD STORE,BUTTERBALL,Frozen Turkey,Frozen Meat
+83,"Butterball, select varieties, spend $10 at Ralphs",RALPHS,BUTTERBALL,Frozen Turkey,Frozen Meat
+84,"Butterball, select varieties, Spend $10 at Ruler Foods",RULER FOODS,BUTTERBALL,Frozen Turkey,Frozen Meat
+85,"Butterball, select varieties, spend $10 at King Soopers",KING SOOPERS,BUTTERBALL,Frozen Turkey,Frozen Meat
+86,"Butterball, select varieties, spend $10 at Fred Meyer",FRED MEYER,BUTTERBALL,Frozen Turkey,Frozen Meat
+87,"Butterball, select varieties, spend $10 at Kroger",KROGER,BUTTERBALL,Frozen Turkey,Frozen Meat
+88,"Butterball, select varieties, spend $10 at Smith's",SMITHS,BUTTERBALL,Frozen Turkey,Frozen Meat
+89,"Butterball, select varieties, spend $10 at Food 4 Less",FOOD4LESS,BUTTERBALL,Frozen Turkey,Frozen Meat
+90,"Butterball, select varieties, spend $10 at Fry's Food Store",FRYS FOOD STORE,BUTTERBALL,Frozen Turkey,Frozen Meat
+91,"Butterball, select varieties, spend $10 at QFC",QFC,BUTTERBALL,Frozen Turkey,Frozen Meat
+92,"Butterball, select varieties, spend $10 at Mariano's",MARIANOS,BUTTERBALL,Frozen Turkey,Frozen Meat
+93,"Butterball, select varieties, spend $10 at Pick 'n Save OR Metro Market",PICK N SAVE,BUTTERBALL,Frozen Turkey,Frozen Meat
+94,"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Frozen Turkey,Frozen Meat
+95,"EVOLVE® Plant-Based Protein Shake, 4 count, select varieties, at Whole Foods",WHOLE FOODS MARKET,EVOLVE,Frozen Turkey,Frozen Meat
+96,"GATORADE® Fast Twitch®, 12-ounce 12 pack, at Amazon Storefront*",AMAZON,GATORADE,Sports Drinks,Sports Drinks & Enhanced Waters
+97,"GATORLYTE® OR GATORADE™ Fit Single Serve Bottle, select varieties, buy 2",,GATORADE,Sports Drinks,Sports Drinks & Enhanced Waters
+98,"GATORADE® Fast Twitch®, 12-ounce single serve, buy 2 at Kroger",FRED MEYER,GATORADE,Sports Drinks,Sports Drinks & Enhanced Waters
+99,"GATORADE® Fast Twitch®, 12-ounce single serve",,GATORADE,Sports Drinks,Sports Drinks & Enhanced Waters
+100,"GATORADE® Fast Twitch®, 12-ounce single serve, at Kroger",DILLONS GROCERY,GATORADE,Sports Drinks,Sports Drinks & Enhanced Waters
+101,"GATORLYTE® OR GATORADE™ Fit Single Serve Bottle, select varieties",,GATORADE,Sports Drinks,Sports Drinks & Enhanced Waters
+102,"GATORADE® Fast Twitch®, 12-ounce single serve, buy 2 at Kroger",FOOD4LESS,GATORADE,Sports Drinks,Sports Drinks & Enhanced Waters
+103,"GATORADE® Fast Twitch®, 12-ounce 12 pack, at Amazon Storefront*",AMAZON,GATORADE,Medicines & Treatments,Health & Wellness
+104,"GATORLYTE® OR GATORADE™ Fit Single Serve Bottle, select varieties, buy 2",,GATORADE,Medicines & Treatments,Health & Wellness
+105,"GATORADE® Fast Twitch®, 12-ounce single serve, buy 2 at Kroger",FRED MEYER,GATORADE,Medicines & Treatments,Health & Wellness
+106,"GATORADE® Fast Twitch®, 12-ounce single serve",,GATORADE,Medicines & Treatments,Health & Wellness
+107,"GATORADE® Fast Twitch®, 12-ounce single serve, at Kroger",DILLONS GROCERY,GATORADE,Medicines & Treatments,Health & Wellness
+108,"GATORLYTE® OR GATORADE™ Fit Single Serve Bottle, select varieties",,GATORADE,Medicines & Treatments,Health & Wellness
+109,"GATORADE® Fast Twitch®, 12-ounce single serve, buy 2 at Kroger",FOOD4LESS,GATORADE,Medicines & Treatments,Health & Wellness
+110,Shop 2 times at ACME,ACME,ACME,Medicines & Treatments,Health & Wellness
+111,Spend $90 at ACME,ACME,ACME,Medicines & Treatments,Health & Wellness
+112,Spend $250 at ACME,ACME,ACME,Medicines & Treatments,Health & Wellness
+113,Any ACME receipt,ACME,ACME,Medicines & Treatments,Health & Wellness
+114,Spend $130 at ACME,ACME,ACME,Medicines & Treatments,Health & Wellness
+115,"Flonase Allergy Relief, at Walmart",WALMART,FLONASE,Medicines & Treatments,Health & Wellness
+116,"Perfect Keto Barista Blend Collagen & MCTs, online at Amazon",AMAZON,PERFECT KETO,Medicines & Treatments,Health & Wellness
+117,"Perfect Keto Beauty + Sleep Collagen, online at Amazon",AMAZON,PERFECT KETO,Medicines & Treatments,Health & Wellness
+118,"Perfect Keto Bars, online at Amazon",AMAZON,PERFECT KETO,Medicines & Treatments,Health & Wellness
+119,"Perfect Keto Collagen Peptides, online at Amazon",AMAZON,PERFECT KETO,Medicines & Treatments,Health & Wellness
+120,"Perfect Keto MCT Oil Powder, online at Amazon",AMAZON,PERFECT KETO,Medicines & Treatments,Health & Wellness
+121,"Perfect Keto Super Reds, online at Amazon",AMAZON,PERFECT KETO,Medicines & Treatments,Health & Wellness
+122,"Perfect Keto Exogenous Ketones Powder, online at Amazon",AMAZON,PERFECT KETO,Medicines & Treatments,Health & Wellness
+123,AleveX™ at Walmart,WALMART,ALEVE,Medicines & Treatments,Health & Wellness
+124,"Aleve® products, select varieties, 80 count+ at Walmart",WALMART,ALEVE,Medicines & Treatments,Health & Wellness
+125,"Aleve® products AND AleveX™, select varieties, at Walmart",WALMART,ALEVE,Medicines & Treatments,Health & Wellness
+126,Fresh Step® Outstretch® Cat Litter,,FRESH STEP,Medicines & Treatments,Health & Wellness
+127,"Durex® Massage & Play 2 in 1 Pleasure Gel, select varieties, at Walmart or Target",TARGET,DUREX,Medicines & Treatments,Health & Wellness
+128,"Children's Astepro® Allergy, 22 count at Dollar General",DOLLAR GENERAL STORE,ASTEPRO,Medicines & Treatments,Health & Wellness
+129,"Adult Astepro® Allergy, 22 count at Dollar General",DOLLAR GENERAL STORE,ASTEPRO,Medicines & Treatments,Health & Wellness
+130,Spend $10 at CVS,CVS,CVS,Medicines & Treatments,Health & Wellness
+131,Spend $30 at CVS,CVS,CVS,Medicines & Treatments,Health & Wellness
+132,"GATORADE® Fast Twitch®, 12-ounce 12 pack, at Amazon Storefront*",AMAZON,GATORADE,Meal Replacement Beverages,Beverages
+133,"GATORLYTE® OR GATORADE™ Fit Single Serve Bottle, select varieties, buy 2",,GATORADE,Meal Replacement Beverages,Beverages
+134,"GATORADE® Fast Twitch®, 12-ounce single serve, buy 2 at Kroger",FRED MEYER,GATORADE,Meal Replacement Beverages,Beverages
+135,"GATORADE® Fast Twitch®, 12-ounce single serve",,GATORADE,Meal Replacement Beverages,Beverages
+136,"GATORADE® Fast Twitch®, 12-ounce single serve, at Kroger",DILLONS GROCERY,GATORADE,Meal Replacement Beverages,Beverages
+137,"GATORLYTE® OR GATORADE™ Fit Single Serve Bottle, select varieties",,GATORADE,Meal Replacement Beverages,Beverages
+138,"GATORADE® Fast Twitch®, 12-ounce single serve, buy 2 at Kroger",FOOD4LESS,GATORADE,Meal Replacement Beverages,Beverages
+139,"EVOLVE® Plant-Based Protein Shake, 4 count, select varieties, at Whole Foods",WHOLE FOODS MARKET,EVOLVE,Meal Replacement Beverages,Beverages
+140,Emmy's Organics® Cookies OR Brownie Snaps,,EMMYS POP UP,Cookies,Snacks
+141,"Any General Mills™ products, buy 2
+Good Rewards Members Only",,ANNIES HOMEGROWN GROCERY,Cookies,Snacks
+142,"General Mills™ products, select brands, spend $35",,ANNIES HOMEGROWN GROCERY,Cookies,Snacks
+143,"General Mills™ products, select brands, spend $7 at Convenience Stores",,ANNIES HOMEGROWN GROCERY,Cookies,Snacks
+144,"General Mills™ products, select varieties, spend $12",,ANNIES HOMEGROWN GROCERY,Cookies,Snacks
+145,"TWIX®, select sizes",,TWIX,Cookies,Snacks
+146,"TWIX®, select varieties",,TWIX,Cookies,Snacks
+147,"Marinela® sweet baked goods, buy 2",,MARINELA,Cookies,Snacks
+148,Little Bites® Spend $10 at Walmart®,WALMART,ENTENMANNS,Cookies,Snacks
+149,"Beech-Nut snacks, select varieties",,BEECHNUT,Cookies,Snacks
+150,"Beech-Nut pouches, buy 8",,BEECHNUT,Cookies,Snacks
+151,GOYA® Coconut Water,,GOYA,Cookies,Snacks
+152,"GOYA® Adobo Seasoning, 8 ounce+",,GOYA,Cookies,Snacks
+153,"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Cookies,Snacks
+154,"Bimbo® sweet baked goods, buy 2",,BIMBO,Cookies,Snacks
+155,"Brownie Brittle® Snacks, select varieties, buy 2",,BROWNIE BRITTLE,Cookies,Snacks
+156,Nature Valley™ Protein Granola,,NATURE VALLEY,Cookies,Snacks
+157,"Dr Pepper®, Regular OR Zero Sugar Strawberries and Cream 12 pack, at select retailers",UNITED SUPERMARKETS,DR PEPPER,Carbonated Soft Drinks,Beverages
+158,"PepsiCo® Beverage, 7.5-ounce 10 pack, select varieties, at Amazon Storefront*",AMAZON,PEPSI,Carbonated Soft Drinks,Beverages
+159,"PepsiCo® Variety Pack, select varieties, at Amazon Storefront*",AMAZON,PEPSI,Carbonated Soft Drinks,Beverages
+160,GOYA® Coconut Water,,GOYA,Carbonated Soft Drinks,Beverages
+161,"GOYA® Adobo Seasoning, 8 ounce+",,GOYA,Carbonated Soft Drinks,Beverages
+162,"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Carbonated Soft Drinks,Beverages
+163,"MTN DEW® Kickstart, 16-ounce 12 count, select varieties, at Amazon Storefront*",AMAZON,MOUNTAIN DEW,Carbonated Soft Drinks,Beverages
+164,"Stubborn Soda OR Bundaberg Ginger Beer, select varieties, at Amazon Storefront*",AMAZON,STUBBORN SODA,Carbonated Soft Drinks,Beverages
+165,"Starry™ Lemon Lime Soda multipacks, at Kroger",DILLONS GROCERY,STARRY,Carbonated Soft Drinks,Beverages
+166,"Starry™ Lemon Lime Soda, 7.5-ounce 10 pack, at Amazon Storefront*",AMAZON,STARRY,Carbonated Soft Drinks,Beverages
+167,"EVOLVE® Plant-Based Protein Shake, 4 count, select varieties, at Whole Foods",WHOLE FOODS MARKET,EVOLVE,Carbonated Soft Drinks,Beverages
+168,"Dr Pepper®, Regular OR Zero Sugar Strawberries and Cream 12 pack, at select retailers",UNITED SUPERMARKETS,DR PEPPER,Cooking & Baking,Pantry
+169,"Any General Mills™ products, buy 2
+Good Rewards Members Only",,ANNIES HOMEGROWN GROCERY,Cooking & Baking,Pantry
+170,"General Mills™ products, select brands, spend $35",,ANNIES HOMEGROWN GROCERY,Cooking & Baking,Pantry
+171,"General Mills™ products, select brands, spend $7 at Convenience Stores",,ANNIES HOMEGROWN GROCERY,Cooking & Baking,Pantry
+172,"General Mills™ products, select varieties, spend $12",,ANNIES HOMEGROWN GROCERY,Cooking & Baking,Pantry
+173,Spend $10 at Subway,SUBWAY,SUBWAY,Cooking & Baking,Pantry
+174,Spend $25 at Subway,SUBWAY,SUBWAY,Cooking & Baking,Pantry
+175,Spend $15 at Subway,SUBWAY,SUBWAY,Cooking & Baking,Pantry
+176,Spend $35 at Subway,SUBWAY,SUBWAY,Cooking & Baking,Pantry
+177,Red Gold Tomato Ketchup,,RED GOLD,Cooking & Baking,Pantry
+178,Red Gold Tomato Juice,,RED GOLD,Cooking & Baking,Pantry
+179,Spend $140 at Shaws,SHAWS,SHAWS,Cooking & Baking,Pantry
+180,Spend $185 at Shaws,SHAWS,SHAWS,Cooking & Baking,Pantry
+181,Shop 2 times at Shaw's,SHAWS,SHAWS,Cooking & Baking,Pantry
+182,Any Shaw's receipt,SHAWS,SHAWS,Cooking & Baking,Pantry
+183,Spend $300 at Shaws,SHAWS,SHAWS,Cooking & Baking,Pantry
+184,Order from Casey's app or Caseys.com,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+185,Spend $25 at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+186,Spend $5 in-store at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+187,Select beverages AND prepared food items at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+188,Visit OR order online from Casey's 7 times,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+189,Spend $5 on single-serve prepared food items at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+190,12 Pack OR 2 Liter AND Whole Pizza Pie at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+191,Whole Pizza at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+192,Wings OR Cheesy Breadsticks at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+193,Whole Pizza Pie at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+194,Frozen OR Fountain Drink at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+195,Spend $10 in-store at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+196,"Fresh bakery item, select varieties, at Casey's",CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+197,Whole pizza at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+198,12 Pack OR 2 Liter AND Whole Pizza at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+199,Frozen OR Fountain Drink at Casey's ,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+200,Visit OR order online from Casey's 3 times,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+201,Visit OR order online from Casey's 5 times,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+202,12 pack OR 2 liter AND Whole Pizza at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+203,Whole Pizza at Casey's ,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+204,"Fresh Bakery Products at Casey's, select varieties",CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+205,Spend $10 on Casey's branded packaged products,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+206,2 Pack OR 2 Liter AND Whole Pizza at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+207,Select Beverages AND Prepared Food Item at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+208,"Fresh Bakery items, select varieties, at Casey's",CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+209,Spend $5 on brisket mac & cheese sandwich OR other single-serve prepared food item,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+210,"CESAR® Wet Dog Food, spend $20",,CESAR,Cooking & Baking,Pantry
+211,CESAR® Wet Dog Food Singles,,CESAR,Cooking & Baking,Pantry
+212,"Hidden Valley® Ranch Salad Dressing OR Secret Sauce, select varieties",,HIDDEN VALLEY RANCH,Cooking & Baking,Pantry
+213,"Hidden Valley® Ranch Seasoning Mix Packet, 1 count",,HIDDEN VALLEY RANCH,Cooking & Baking,Pantry
+214,"Hidden Valley® Ranch Seasoning, select varieties",,HIDDEN VALLEY RANCH,Cooking & Baking,Pantry
+215,Hidden Valley® Ranch Seasoning Shaker,,HIDDEN VALLEY RANCH,Cooking & Baking,Pantry
+216,"Hidden Valley® Ranch Night Seasoning Mix, 1 count",,HIDDEN VALLEY RANCH,Cooking & Baking,Pantry
+217,"Chosen Foods® Mayo, select varieties",,CHOSEN FOODS,Cooking & Baking,Pantry
+218,Chosen Foods® Dressings,,CHOSEN FOODS,Cooking & Baking,Pantry
+219,"Bio-Oil® Skincare Oil OR Gel, select varieties",,BIO OIL,Cooking & Baking,Pantry
+220,"Bio-Oil® products, select varieties",,BIO OIL,Cooking & Baking,Pantry
+221,Sign up for The Club Card or The Club+ Card full-priced membership* (New Members Only),BJS WHOLESALE,BJS WHOLESALE,Cooking & Baking,Pantry
+222,Fresh Step® Outstretch® Cat Litter,,FRESH STEP,Cooking & Baking,Pantry
+223,Wesson® Oil Products,,WESSON,Cooking & Baking,Pantry
+224,Spend $155 at Pavilions,PAVILIONS,PAVILIONS,Cooking & Baking,Pantry
+225,Shop 2 times at Pavilions,PAVILIONS,PAVILIONS,Cooking & Baking,Pantry
+226,Spend $100 at Pavilions,PAVILIONS,PAVILIONS,Cooking & Baking,Pantry
+227,Any Pavilions receipt,PAVILIONS,PAVILIONS,Cooking & Baking,Pantry
+228,Spend $270 at Pavilions,PAVILIONS,PAVILIONS,Cooking & Baking,Pantry
+229,Spend $90 at Star Market,STAR MARKET,STAR MARKET,Cooking & Baking,Pantry
+230,Shop 2 times at Star Market,STAR MARKET,STAR MARKET,Cooking & Baking,Pantry
+231,Spend $120 at Star Market,STAR MARKET,STAR MARKET,Cooking & Baking,Pantry
+232,Spend $220 at Star Market,STAR MARKET,STAR MARKET,Cooking & Baking,Pantry
+233,Any Star Market receipt,STAR MARKET,STAR MARKET,Cooking & Baking,Pantry
+234,GOYA® Coconut Water,,GOYA,Cooking & Baking,Pantry
+235,"GOYA® Adobo Seasoning, 8 ounce+",,GOYA,Cooking & Baking,Pantry
+236,Blue Apron Meal Kits,BLUE APRON,BLUE APRON,Cooking & Baking,Pantry
+237,"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Cooking & Baking,Pantry
+238,"Kradle, select varieties, spend $20 at Walmart",WALMART,KRADLE,Cooking & Baking,Pantry
+239,"Kradle, select products, online at Chewy.com",CHEWY,KRADLE,Cooking & Baking,Pantry
+240,"Kradle, select varieties, online at Amazon",AMAZON,KRADLE,Cooking & Baking,Pantry
+241,"Kradle, select varieties, at Pet Supplies Plus",PET SUPPLIES PLUS,KRADLE,Cooking & Baking,Pantry
+242,Spend $10 at CVS,CVS,CVS,Cooking & Baking,Pantry
+243,Spend $30 at CVS,CVS,CVS,Cooking & Baking,Pantry
+244,Spend $15 at Burger King,BURGER KING,BURGER KING,Cooking & Baking,Pantry
+245,"Dixon® Safety Carpenter Pencil, 10 count, at Lowe’s®",LOWES HOME IMPROVEMENT,DIXON,Cooking & Baking,Pantry
+246,Simply Organic Seasoning Mixes OR Spices,,SIMPLY ORGANIC,Cooking & Baking,Pantry
+247,"Arnold, Brownberry, Oroweat® Small Slice bread, at Walmart",WALMART,ARNOLD BROWNBERRY OROWEAT,Bread,Pantry
+248,"Arnold, Brownberry, Oroweat® Keto bread, buy 2",,ARNOLD BROWNBERRY OROWEAT,Bread,Pantry
+249,Arnold® Grains Almighty,,ARNOLD BROWNBERRY OROWEAT,Bread,Pantry
+250,"Any General Mills™ products, buy 2
+Good Rewards Members Only",,ANNIES HOMEGROWN GROCERY,Bread,Pantry
+251,"General Mills™ products, select brands, spend $35",,ANNIES HOMEGROWN GROCERY,Bread,Pantry
+252,"General Mills™ products, select brands, spend $7 at Convenience Stores",,ANNIES HOMEGROWN GROCERY,Bread,Pantry
+253,"General Mills™ products, select varieties, spend $12",,ANNIES HOMEGROWN GROCERY,Bread,Pantry
+254,"Sara Lee® bread, select varieties, buy 2 at Walmart®",WALMART,SARA LEE,Bread,Pantry
+255,"Sara Lee® bread select varieties, buy 2",WALMART,SARA LEE,Bread,Pantry
+256,"Sara Lee® Delightful bread, buy 2",,SARA LEE,Bread,Pantry
+257,"Sara Lee® or Alfaros® Artesano bread, buy 5",,ALFAROS,Bread,Pantry
+258,"Sara Lee® or Alfaros® Artesano bread, spend $8",,ALFAROS,Bread,Pantry
+259,"Sara Lee® or Alfaros® Artesano bread, buy 2",,ALFAROS,Bread,Pantry
+260,"Sara Lee® or Alfaros® Artesano bread, spend $20",,ALFAROS,Bread,Pantry
+261,"Thomas'® Bagel Thins®, buy 2",,THOMAS,Bread,Pantry
+262,"Thomas'®, select varieties, spend $10",,THOMAS,Bread,Pantry
+263,Thomas'® Bagel Thins,,THOMAS,Bread,Pantry
+264,"Artesano® buns, buy 2 at Walmart®",WALMART,SARA LEE ARTESANO,Bread,Pantry
+265,Bays® English Muffins,,BAYS,Bread,Pantry
+266,GOYA® Coconut Water,,GOYA,Bread,Pantry
+267,"GOYA® Adobo Seasoning, 8 ounce+",,GOYA,Bread,Pantry
+268,"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Bread,Pantry
+269,"Bimbo® sweet baked goods, buy 2",,BIMBO,Bread,Pantry
+270,"BallPark® buns, buy 2",,BALL PARK POP UPS,Bread,Pantry
+271,The Rustik Oven® bread,,RUSTIK OVEN,Bread,Pantry
+272,"Arnold, Brownberry, Oroweat® Small Slice bread, at Walmart",WALMART,ARNOLD BROWNBERRY OROWEAT,Prepared Meals,Deli & Bakery
+273,"Arnold, Brownberry, Oroweat® Keto bread, buy 2",,ARNOLD BROWNBERRY OROWEAT,Prepared Meals,Deli & Bakery
+274,Arnold® Grains Almighty,,ARNOLD BROWNBERRY OROWEAT,Prepared Meals,Deli & Bakery
+275,"Bubbies Pickles, Sauerkraut, and Condiments at Whole Foods or Sprouts",SPROUTS FARMERS MARKET,BUBBIES,Prepared Meals,Deli & Bakery
+276,"Bubbies Pickles, Sauerkraut, OR Condiments at Whole Foods or Sprouts",SPROUTS FARMERS MARKET,BUBBIES,Prepared Meals,Deli & Bakery
+277,"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Prepared Meals,Deli & Bakery
+278,"Glad® Trash Bags, 4 OR 8 Gallon",,GLAD,Prepared Meals,Deli & Bakery
+279,Glad® ForceFlex Max Strength Trash Bags,,GLAD,Prepared Meals,Deli & Bakery
+280,"Arnold, Brownberry, Oroweat® Small Slice bread, at Walmart",WALMART,ARNOLD BROWNBERRY OROWEAT,Bakery,Deli & Bakery
+281,"Arnold, Brownberry, Oroweat® Keto bread, buy 2",,ARNOLD BROWNBERRY OROWEAT,Bakery,Deli & Bakery
+282,Arnold® Grains Almighty,,ARNOLD BROWNBERRY OROWEAT,Bakery,Deli & Bakery
+283,"Sara Lee® bread, select varieties, buy 2 at Walmart®",WALMART,SARA LEE,Bakery,Deli & Bakery
+284,"Sara Lee® bread select varieties, buy 2",WALMART,SARA LEE,Bakery,Deli & Bakery
+285,"Sara Lee® Delightful bread, buy 2",,SARA LEE,Bakery,Deli & Bakery
+286,"Sara Lee® or Alfaros® Artesano bread, buy 5",,ALFAROS,Bakery,Deli & Bakery
+287,"Sara Lee® or Alfaros® Artesano bread, spend $8",,ALFAROS,Bakery,Deli & Bakery
+288,"Sara Lee® or Alfaros® Artesano bread, buy 2",,ALFAROS,Bakery,Deli & Bakery
+289,"Sara Lee® or Alfaros® Artesano bread, spend $20",,ALFAROS,Bakery,Deli & Bakery
+290,Little Bites® Spend $10 at Walmart®,WALMART,ENTENMANNS,Bakery,Deli & Bakery
+291,"Thomas'® Bagel Thins®, buy 2",,THOMAS,Bakery,Deli & Bakery
+292,"Thomas'®, select varieties, spend $10",,THOMAS,Bakery,Deli & Bakery
+293,Thomas'® Bagel Thins,,THOMAS,Bakery,Deli & Bakery
+294,"Artesano® buns, buy 2 at Walmart®",WALMART,SARA LEE ARTESANO,Bakery,Deli & Bakery
+295,Fresh Step® Outstretch® Cat Litter,,FRESH STEP,Bakery,Deli & Bakery
+296,"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Bakery,Deli & Bakery
+297,"Bimbo® sweet baked goods, buy 2",,BIMBO,Bakery,Deli & Bakery
+298,"BallPark® buns, buy 2",,BALL PARK POP UPS,Bakery,Deli & Bakery
+299,"Brownie Brittle® Snacks, select varieties, buy 2",,BROWNIE BRITTLE,Bakery,Deli & Bakery
+300,Barilla® Pesto Sauce,,BARILLA,Dry Pasta,Pasta & Noodles
+301,"Barilla® Pasta, select varieties, buy 2",,BARILLA,Dry Pasta,Pasta & Noodles
+302,"Barilla® pasta, select varieties, buy 3",,BARILLA,Dry Pasta,Pasta & Noodles
+303,"Barilla® pasta, select varieties, buy 4",,BARILLA,Dry Pasta,Pasta & Noodles
+304,"Barilla® pasta, select varieties, buy 2",,BARILLA,Dry Pasta,Pasta & Noodles
+305,"Michael Angelo's® OR Rao's® Frozen Entrees, spend $10",,RAO'S,Dry Pasta,Pasta & Noodles
+306,Rao's® Frozen Pizza,,RAO'S,Dry Pasta,Pasta & Noodles
+307,"Rao's®, Pasta OR Sauce, spend $10",,RAO'S,Dry Pasta,Pasta & Noodles
+308,GOYA® Coconut Water,,GOYA,Dry Pasta,Pasta & Noodles
+309,"GOYA® Adobo Seasoning, 8 ounce+",,GOYA,Dry Pasta,Pasta & Noodles
+310,Barilla® Pesto Sauce,,BARILLA,Chips,Snacks
+311,"Barilla® Pasta, select varieties, buy 2",,BARILLA,Chips,Snacks
+312,"Barilla® pasta, select varieties, buy 3",,BARILLA,Chips,Snacks
+313,"Barilla® pasta, select varieties, buy 4",,BARILLA,Chips,Snacks
+314,"Barilla® pasta, select varieties, buy 2",,BARILLA,Chips,Snacks
+315,"Any General Mills™ products, buy 2
+Good Rewards Members Only",,ANNIES HOMEGROWN GROCERY,Chips,Snacks
+316,"General Mills™ products, select brands, spend $35",,ANNIES HOMEGROWN GROCERY,Chips,Snacks
+317,"General Mills™ products, select brands, spend $7 at Convenience Stores",,ANNIES HOMEGROWN GROCERY,Chips,Snacks
+318,"General Mills™ products, select varieties, spend $12",,ANNIES HOMEGROWN GROCERY,Chips,Snacks
+319,"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Chips,Snacks
+320,NatuChips® Plantain Chips,,NATUCHIPS,Chips,Snacks
+321,Tostitos® Toppers™,,TOSTITOS,Chips,Snacks
+322,"General Mills™ snacks, select brands, spend $10",,BUGLES,Chips,Snacks
+323,Nature Valley™ Protein Granola,,NATURE VALLEY,Chips,Snacks
+324,Barilla® Pesto Sauce,,BARILLA,Red Pasta Sauce,Pasta Sauce
+325,"Barilla® Pasta, select varieties, buy 2",,BARILLA,Red Pasta Sauce,Pasta Sauce
+326,"Barilla® pasta, select varieties, buy 3",,BARILLA,Red Pasta Sauce,Pasta Sauce
+327,"Barilla® pasta, select varieties, buy 4",,BARILLA,Red Pasta Sauce,Pasta Sauce
+328,"Barilla® pasta, select varieties, buy 2",,BARILLA,Red Pasta Sauce,Pasta Sauce
+329,"Michael Angelo's® OR Rao's® Frozen Entrees, spend $10",,RAO'S,Red Pasta Sauce,Pasta Sauce
+330,Rao's® Frozen Pizza,,RAO'S,Red Pasta Sauce,Pasta Sauce
+331,"Rao's®, Pasta OR Sauce, spend $10",,RAO'S,Red Pasta Sauce,Pasta Sauce
+332,Barilla® Pesto Sauce,,BARILLA,Pesto Sauce,Pasta Sauce
+333,"Barilla® Pasta, select varieties, buy 2",,BARILLA,Pesto Sauce,Pasta Sauce
+334,"Barilla® pasta, select varieties, buy 3",,BARILLA,Pesto Sauce,Pasta Sauce
+335,"Barilla® pasta, select varieties, buy 4",,BARILLA,Pesto Sauce,Pasta Sauce
+336,"Barilla® pasta, select varieties, buy 2",,BARILLA,Pesto Sauce,Pasta Sauce
+337,"Any General Mills™ products, buy 2
+Good Rewards Members Only",,ANNIES HOMEGROWN GROCERY,Cheese,Dairy
+338,"General Mills™ products, select brands, spend $35",,ANNIES HOMEGROWN GROCERY,Cheese,Dairy
+339,"General Mills™ products, select brands, spend $7 at Convenience Stores",,ANNIES HOMEGROWN GROCERY,Cheese,Dairy
+340,"General Mills™ products, select varieties, spend $12",,ANNIES HOMEGROWN GROCERY,Cheese,Dairy
+341,"Sara Lee® bread, select varieties, buy 2 at Walmart®",WALMART,SARA LEE,Cheese,Dairy
+342,"Sara Lee® bread select varieties, buy 2",WALMART,SARA LEE,Cheese,Dairy
+343,"Sara Lee® Delightful bread, buy 2",,SARA LEE,Cheese,Dairy
+344,"Sargento Sliced Cheese, spend $25",,SARGENTO,Cheese,Dairy
+345,"Sargento Sliced Cheese, spend $12",,SARGENTO,Cheese,Dairy
+346,"Sargento® products, select varieties",,SARGENTO,Cheese,Dairy
+347,"Sargento® products, select varieties, buy 3",,SARGENTO,Cheese,Dairy
+348,"Sargento Sliced Cheese, spend $18",,SARGENTO,Cheese,Dairy
+349,Sargento Product,,SARGENTO,Cheese,Dairy
+350,"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Cheese,Dairy
+351,"Any General Mills™ products, buy 2
+Good Rewards Members Only",,ANNIES HOMEGROWN GROCERY,Crackers,Snacks
+352,"General Mills™ products, select brands, spend $35",,ANNIES HOMEGROWN GROCERY,Crackers,Snacks
+353,"General Mills™ products, select brands, spend $7 at Convenience Stores",,ANNIES HOMEGROWN GROCERY,Crackers,Snacks
+354,"General Mills™ products, select varieties, spend $12",,ANNIES HOMEGROWN GROCERY,Crackers,Snacks
+355,"Crunchmaster® Crackers, spend $4",,CRUNCHMASTER,Crackers,Snacks
+356,"Beech-Nut snacks, select varieties",,BEECHNUT,Crackers,Snacks
+357,"Beech-Nut pouches, buy 8",,BEECHNUT,Crackers,Snacks
+358,GOYA® Coconut Water,,GOYA,Crackers,Snacks
+359,"GOYA® Adobo Seasoning, 8 ounce+",,GOYA,Crackers,Snacks
+360,"Glad® Trash Bags, 4 OR 8 Gallon",,GLAD,Crackers,Snacks
+361,Glad® ForceFlex Max Strength Trash Bags,,GLAD,Crackers,Snacks
+362,Nature Valley™ Protein Granola,,NATURE VALLEY,Crackers,Snacks
+363,"Any General Mills™ products, buy 2
+Good Rewards Members Only",,ANNIES HOMEGROWN GROCERY,Fruit & Vegetable Snacks,Snacks
+364,"General Mills™ products, select brands, spend $35",,ANNIES HOMEGROWN GROCERY,Fruit & Vegetable Snacks,Snacks
+365,"General Mills™ products, select brands, spend $7 at Convenience Stores",,ANNIES HOMEGROWN GROCERY,Fruit & Vegetable Snacks,Snacks
+366,"General Mills™ products, select varieties, spend $12",,ANNIES HOMEGROWN GROCERY,Fruit & Vegetable Snacks,Snacks
+367,"Welch's®Fruit Snacks, select varieties, buy 2",,WELCHS FRUIT SNACKS,Fruit & Vegetable Snacks,Snacks
+368,"Welch's® Zero Sugar Fruity Bites, 6 pack+, online at Amazon",AMAZON,WELCHS FRUIT SNACKS,Fruit & Vegetable Snacks,Snacks
+369,"Welch's® Fruit Snacks, select varieties, 6 count+, buy 3",,WELCHS FRUIT SNACKS,Fruit & Vegetable Snacks,Snacks
+370,"Welch's® Fruit Snacks, 250 count, online at Amazon",AMAZON,WELCHS FRUIT SNACKS,Fruit & Vegetable Snacks,Snacks
+371,"Welch's® Juicefuls® Juicy Fruit Snacks, 14 count, at Target",TARGET,WELCHS FRUIT SNACKS,Fruit & Vegetable Snacks,Snacks
+372,"Welch's® Fruit Snacks, select varieties, 6 count+, buy 2",,WELCHS FRUIT SNACKS,Fruit & Vegetable Snacks,Snacks
+373,"Welch's®Fruit Snacks, spend $8",,WELCHS FRUIT SNACKS,Fruit & Vegetable Snacks,Snacks
+374,"Welch's® Fruit 'n Yogurt® Snacks, 18 count, at Walmart",WALMART,WELCHS FRUIT SNACKS,Fruit & Vegetable Snacks,Snacks
+375,"Welch's® Fruit Snacks, select varieties, 6 count+",,WELCHS FRUIT SNACKS,Fruit & Vegetable Snacks,Snacks
+376,"Welch's® Juicefuls® Juicy Fruit Snacks, buy 2",,WELCHS FRUIT SNACKS,Fruit & Vegetable Snacks,Snacks
+377,"STARBURST®, select sizes, buy 1",,STARBURST,Fruit & Vegetable Snacks,Snacks
+378,"STARBURST®, select varieties",,STARBURST,Fruit & Vegetable Snacks,Snacks
+379,"Beech-Nut snacks, select varieties",,BEECHNUT,Fruit & Vegetable Snacks,Snacks
+380,"Beech-Nut pouches, buy 8",,BEECHNUT,Fruit & Vegetable Snacks,Snacks
+381,"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Fruit & Vegetable Snacks,Snacks
+382,Nature Valley™ Protein Granola,,NATURE VALLEY,Fruit & Vegetable Snacks,Snacks
+383,"Any General Mills™ products, buy 2
+Good Rewards Members Only",,ANNIES HOMEGROWN GROCERY,Dressings,Pantry
+384,"General Mills™ products, select brands, spend $35",,ANNIES HOMEGROWN GROCERY,Dressings,Pantry
+385,"General Mills™ products, select brands, spend $7 at Convenience Stores",,ANNIES HOMEGROWN GROCERY,Dressings,Pantry
+386,"General Mills™ products, select varieties, spend $12",,ANNIES HOMEGROWN GROCERY,Dressings,Pantry
+387,Hellmann's® OR Best Foods® Garlic Aioli OR Spicy Mayonnaise,,HELLMANNS BEST FOODS,Dressings,Pantry
+388,Hellmann's® OR Best Foods® AND Sargento® Cheese Slices,,HELLMANNS BEST FOODS,Dressings,Pantry
+389,Hellmann's | Best Foods Vegan Dressing or Spread,,HELLMANNS BEST FOODS,Dressings,Pantry
+390,"Chosen Foods® Mayo, select varieties",,CHOSEN FOODS,Dressings,Pantry
+391,Chosen Foods® Dressings,,CHOSEN FOODS,Dressings,Pantry
+392,"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Dressings,Pantry
+393,"Sir Kensington's® Condiments, buy 2",,SIR KENSINGTONS,Dressings,Pantry
+394,Sir Kensington's® Condiments,,SIR KENSINGTONS,Dressings,Pantry
+395,"Any General Mills™ products, buy 2
+Good Rewards Members Only",,ANNIES HOMEGROWN GROCERY,Refrigerated Doughs,Dairy
+396,"General Mills™ products, select brands, spend $35",,ANNIES HOMEGROWN GROCERY,Refrigerated Doughs,Dairy
+397,"General Mills™ products, select brands, spend $7 at Convenience Stores",,ANNIES HOMEGROWN GROCERY,Refrigerated Doughs,Dairy
+398,"General Mills™ products, select varieties, spend $12",,ANNIES HOMEGROWN GROCERY,Refrigerated Doughs,Dairy
+399,"Any General Mills™ products, buy 2
+Good Rewards Members Only",,ANNIES HOMEGROWN GROCERY,Packaged Vegetables,Pantry
+400,"General Mills™ products, select brands, spend $35",,ANNIES HOMEGROWN GROCERY,Packaged Vegetables,Pantry
+401,"General Mills™ products, select brands, spend $7 at Convenience Stores",,ANNIES HOMEGROWN GROCERY,Packaged Vegetables,Pantry
+402,"General Mills™ products, select varieties, spend $12",,ANNIES HOMEGROWN GROCERY,Packaged Vegetables,Pantry
+403,GOYA® Coconut Water,,GOYA,Packaged Vegetables,Pantry
+404,"GOYA® Adobo Seasoning, 8 ounce+",,GOYA,Packaged Vegetables,Pantry
+405,"Any General Mills™ products, buy 2
+Good Rewards Members Only",,ANNIES HOMEGROWN GROCERY,Frozen Meals,Frozen
+406,"General Mills™ products, select brands, spend $35",,ANNIES HOMEGROWN GROCERY,Frozen Meals,Frozen
+407,"General Mills™ products, select brands, spend $7 at Convenience Stores",,ANNIES HOMEGROWN GROCERY,Frozen Meals,Frozen
+408,"General Mills™ products, select varieties, spend $12",,ANNIES HOMEGROWN GROCERY,Frozen Meals,Frozen
+409,"Gorton's, at select retailers",SHOP RITE,GORTONS,Frozen Meals,Frozen
+410,"Gorton's Air Fried Butterfly Shrimp, at Walmart",WALMART,GORTONS,Frozen Meals,Frozen
+411,"Gorton's, at select retailers",STOP & SHOP,GORTONS,Frozen Meals,Frozen
+412,Gorton's at select retailers,STOP & SHOP,GORTONS,Frozen Meals,Frozen
+413,Gorton's at select retailers,WALMART,GORTONS,Frozen Meals,Frozen
+414,"Reese's Chocolate Cones, 8 count at GIANT OR MARTIN’S",MARTINS FOODS,KLONDIKE,Frozen Meals,Frozen
+415,"Reese's Chocolate Cones, 8 count at GIANT OR MARTIN’S",GIANT FOOD,KLONDIKE,Frozen Meals,Frozen
+416,"Klondike Cones, spend $10 at Walmart ",WALMART,KLONDIKE,Frozen Meals,Frozen
+417,Klondike Cones at Walmart ,WALMART,KLONDIKE,Frozen Meals,Frozen
+418,Talenti Mini Bars,,TALENTI,Frozen Meals,Frozen
+419,"Michael Angelo's® OR Rao's® Frozen Entrees, spend $10",,RAO'S,Frozen Meals,Frozen
+420,Rao's® Frozen Pizza,,RAO'S,Frozen Meals,Frozen
+421,"Rao's®, Pasta OR Sauce, spend $10",,RAO'S,Frozen Meals,Frozen
+422,Michael Angelo's® Sauce at Walmart,WALMART,MICHAEL ANGELO'S,Frozen Meals,Frozen
+423,GOYA® Coconut Water,,GOYA,Frozen Meals,Frozen
+424,"GOYA® Adobo Seasoning, 8 ounce+",,GOYA,Frozen Meals,Frozen
+425,"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Frozen Meals,Frozen
+426,"Any General Mills™ products, buy 2
+Good Rewards Members Only",,ANNIES HOMEGROWN GROCERY,Frozen Pizza & Pizza Snacks,Frozen
+427,"General Mills™ products, select brands, spend $35",,ANNIES HOMEGROWN GROCERY,Frozen Pizza & Pizza Snacks,Frozen
+428,"General Mills™ products, select brands, spend $7 at Convenience Stores",,ANNIES HOMEGROWN GROCERY,Frozen Pizza & Pizza Snacks,Frozen
+429,"General Mills™ products, select varieties, spend $12",,ANNIES HOMEGROWN GROCERY,Frozen Pizza & Pizza Snacks,Frozen
+430,Order from Casey's app or Caseys.com,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+431,Spend $25 at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+432,Spend $5 in-store at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+433,Select beverages AND prepared food items at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+434,Visit OR order online from Casey's 7 times,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+435,Spend $5 on single-serve prepared food items at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+436,12 Pack OR 2 Liter AND Whole Pizza Pie at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+437,Whole Pizza at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+438,Wings OR Cheesy Breadsticks at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+439,Whole Pizza Pie at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+440,Frozen OR Fountain Drink at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+441,Spend $10 in-store at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+442,"Fresh bakery item, select varieties, at Casey's",CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+443,Whole pizza at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+444,12 Pack OR 2 Liter AND Whole Pizza at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+445,Frozen OR Fountain Drink at Casey's ,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+446,Visit OR order online from Casey's 3 times,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+447,Visit OR order online from Casey's 5 times,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+448,12 pack OR 2 liter AND Whole Pizza at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+449,Whole Pizza at Casey's ,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+450,"Fresh Bakery Products at Casey's, select varieties",CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+451,Spend $10 on Casey's branded packaged products,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+452,2 Pack OR 2 Liter AND Whole Pizza at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+453,Select Beverages AND Prepared Food Item at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+454,"Fresh Bakery items, select varieties, at Casey's",CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+455,Spend $5 on brisket mac & cheese sandwich OR other single-serve prepared food item,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+456,"Michael Angelo's® OR Rao's® Frozen Entrees, spend $10",,RAO'S,Frozen Pizza & Pizza Snacks,Frozen
+457,Rao's® Frozen Pizza,,RAO'S,Frozen Pizza & Pizza Snacks,Frozen
+458,"Rao's®, Pasta OR Sauce, spend $10",,RAO'S,Frozen Pizza & Pizza Snacks,Frozen
+459,"Any General Mills™ products, buy 2
+Good Rewards Members Only",,ANNIES HOMEGROWN GROCERY,"Cereal, Granola, & Toaster Pastries",Pantry
+460,"General Mills™ products, select brands, spend $35",,ANNIES HOMEGROWN GROCERY,"Cereal, Granola, & Toaster Pastries",Pantry
+461,"General Mills™ products, select brands, spend $7 at Convenience Stores",,ANNIES HOMEGROWN GROCERY,"Cereal, Granola, & Toaster Pastries",Pantry
+462,"General Mills™ products, select varieties, spend $12",,ANNIES HOMEGROWN GROCERY,"Cereal, Granola, & Toaster Pastries",Pantry
+463,"Sara Lee® bread, select varieties, buy 2 at Walmart®",WALMART,SARA LEE,"Cereal, Granola, & Toaster Pastries",Pantry
+464,"Sara Lee® bread select varieties, buy 2",WALMART,SARA LEE,"Cereal, Granola, & Toaster Pastries",Pantry
+465,"Sara Lee® Delightful bread, buy 2",,SARA LEE,"Cereal, Granola, & Toaster Pastries",Pantry
+466,"Kodiak® products, select varieties, spend $10",,KODIAK CAKES FLAPJACK & WAFFLE MIX,"Cereal, Granola, & Toaster Pastries",Pantry
+467,Wonderworks™ Keto* Friendly Cereal,,WONDERWORKS,"Cereal, Granola, & Toaster Pastries",Pantry
+468,:ratio™ KETO* Friendly Cereal OR Granola,,RATIO,"Cereal, Granola, & Toaster Pastries",Pantry
+469,Cheerios™ Oat Crunch Berry Cereal,,CHEERIOS,"Cereal, Granola, & Toaster Pastries",Pantry
+470,Nature Valley™ Protein Granola,,NATURE VALLEY,"Cereal, Granola, & Toaster Pastries",Pantry
+471,"Any General Mills™ products, buy 2
+Good Rewards Members Only",,ANNIES HOMEGROWN GROCERY,Frozen Breakfast,Frozen
+472,"General Mills™ products, select brands, spend $35",,ANNIES HOMEGROWN GROCERY,Frozen Breakfast,Frozen
+473,"General Mills™ products, select brands, spend $7 at Convenience Stores",,ANNIES HOMEGROWN GROCERY,Frozen Breakfast,Frozen
+474,"General Mills™ products, select varieties, spend $12",,ANNIES HOMEGROWN GROCERY,Frozen Breakfast,Frozen
+475,"Thomas'® Bagel Thins®, buy 2",,THOMAS,Frozen Breakfast,Frozen
+476,"Thomas'®, select varieties, spend $10",,THOMAS,Frozen Breakfast,Frozen
+477,Thomas'® Bagel Thins,,THOMAS,Frozen Breakfast,Frozen
+478,"Any General Mills™ products, buy 2
+Good Rewards Members Only",,ANNIES HOMEGROWN GROCERY,Soup & Broth,Pantry
+479,"General Mills™ products, select brands, spend $35",,ANNIES HOMEGROWN GROCERY,Soup & Broth,Pantry
+480,"General Mills™ products, select brands, spend $7 at Convenience Stores",,ANNIES HOMEGROWN GROCERY,Soup & Broth,Pantry
+481,"General Mills™ products, select varieties, spend $12",,ANNIES HOMEGROWN GROCERY,Soup & Broth,Pantry
+482,GOYA® Coconut Water,,GOYA,Soup & Broth,Pantry
+483,"GOYA® Adobo Seasoning, 8 ounce+",,GOYA,Soup & Broth,Pantry
+484,"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Soup & Broth,Pantry
+485,Egglife Egg White Wraps at Aldi,ALDI,EGGLIFE,Eggs,Dairy
+486,"DOVE® Chocolate, select sizes, buy 1",,DOVE CHOCOLATE,Candy,Snacks
+487,"DOVE® chocolate, select varieties",,DOVE CHOCOLATE,Candy,Snacks
+488,"M&M'S®, select sizes, buy 1",,M&MS,Candy,Snacks
+489,"M&M'S® chocolate candies, select varieties",,M&MS,Candy,Snacks
+490,"TWIX®, select sizes",,TWIX,Candy,Snacks
+491,"TWIX®, select varieties",,TWIX,Candy,Snacks
+492,"Crunchmaster® Crackers, spend $4",,CRUNCHMASTER,Candy,Snacks
+493,Any Albertsons receipt,ALBERTSONS,ALBERTSONS,Candy,Snacks
+494,Shop 2 times at Albertsons,ALBERTSONS,ALBERTSONS,Candy,Snacks
+495,Spend $65 at Albertsons,ALBERTSONS,ALBERTSONS,Candy,Snacks
+496,Spend $110 at Albertsons,ALBERTSONS,ALBERTSONS,Candy,Snacks
+497,Spend $220 at Albertsons,ALBERTSONS,ALBERTSONS,Candy,Snacks
+498,"Marinela® sweet baked goods, buy 2",,MARINELA,Candy,Snacks
+499,Envy Apples pre-packed bags,,ENVY,Candy,Snacks
+500,"Envy Apples, pre-packed bags",,ENVY,Candy,Snacks
+501,Shop 2 times at Safeway,SAFEWAY,SAFEWAY,Candy,Snacks
+502,Spend $210 at Safeway,SAFEWAY,SAFEWAY,Candy,Snacks
+503,Any Safeway receipt,SAFEWAY,SAFEWAY,Candy,Snacks
+504,Spend $115 at Safeway,SAFEWAY,SAFEWAY,Candy,Snacks
+505,Spend $90 at Safeway,SAFEWAY,SAFEWAY,Candy,Snacks
+506,"STARBURST®, select sizes, buy 1",,STARBURST,Candy,Snacks
+507,"STARBURST®, select varieties",,STARBURST,Candy,Snacks
+508,LIFE SAVERS®,,LIFESAVERS,Candy,Snacks
+509,"LIFESAVERS®, any size, buy 1",,LIFESAVERS,Candy,Snacks
+510,"SNICKERS®, select sizes, buy 1",,SNICKERS,Candy,Snacks
+511,"SNICKERS® chocolate candy bar, select varieties",,SNICKERS,Candy,Snacks
+512,"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Candy,Snacks
+513,"SKITTLES®, select varieties",,SKITTLES,Candy,Snacks
+514,"SKITTLES®, select sizes",,SKITTLES,Candy,Snacks
+515,Nature Valley™ Protein Granola,,NATURE VALLEY,Candy,Snacks
+516,Hellmann's® OR Best Foods® Garlic Aioli OR Spicy Mayonnaise,,HELLMANNS BEST FOODS,Condiments,Pantry
+517,Hellmann's® OR Best Foods® AND Sargento® Cheese Slices,,HELLMANNS BEST FOODS,Condiments,Pantry
+518,Hellmann's | Best Foods Vegan Dressing or Spread,,HELLMANNS BEST FOODS,Condiments,Pantry
+519,Red Gold Tomato Ketchup,,RED GOLD,Condiments,Pantry
+520,Red Gold Tomato Juice,,RED GOLD,Condiments,Pantry
+521,"Chosen Foods® Mayo, select varieties",,CHOSEN FOODS,Condiments,Pantry
+522,Chosen Foods® Dressings,,CHOSEN FOODS,Condiments,Pantry
+523,"Sir Kensington's® Condiments, buy 2",,SIR KENSINGTONS,Condiments,Pantry
+524,Sir Kensington's® Condiments,,SIR KENSINGTONS,Condiments,Pantry
+525,Hellmann's® OR Best Foods® Garlic Aioli OR Spicy Mayonnaise,,HELLMANNS BEST FOODS,Sauces & Marinades,Pantry
+526,Hellmann's® OR Best Foods® AND Sargento® Cheese Slices,,HELLMANNS BEST FOODS,Sauces & Marinades,Pantry
+527,Hellmann's | Best Foods Vegan Dressing or Spread,,HELLMANNS BEST FOODS,Sauces & Marinades,Pantry
+528,Red Gold Tomato Ketchup,,RED GOLD,Sauces & Marinades,Pantry
+529,Red Gold Tomato Juice,,RED GOLD,Sauces & Marinades,Pantry
+530,"CESAR® Wet Dog Food, spend $20",,CESAR,Sauces & Marinades,Pantry
+531,CESAR® Wet Dog Food Singles,,CESAR,Sauces & Marinades,Pantry
+532,"Hidden Valley® Ranch Salad Dressing OR Secret Sauce, select varieties",,HIDDEN VALLEY RANCH,Sauces & Marinades,Pantry
+533,"Hidden Valley® Ranch Seasoning Mix Packet, 1 count",,HIDDEN VALLEY RANCH,Sauces & Marinades,Pantry
+534,"Hidden Valley® Ranch Seasoning, select varieties",,HIDDEN VALLEY RANCH,Sauces & Marinades,Pantry
+535,Hidden Valley® Ranch Seasoning Shaker,,HIDDEN VALLEY RANCH,Sauces & Marinades,Pantry
+536,"Hidden Valley® Ranch Night Seasoning Mix, 1 count",,HIDDEN VALLEY RANCH,Sauces & Marinades,Pantry
+537,Envy Apples pre-packed bags,,ENVY,Sauces & Marinades,Pantry
+538,"Envy Apples, pre-packed bags",,ENVY,Sauces & Marinades,Pantry
+539,"Michael Angelo's® OR Rao's® Frozen Entrees, spend $10",,RAO'S,Sauces & Marinades,Pantry
+540,Rao's® Frozen Pizza,,RAO'S,Sauces & Marinades,Pantry
+541,"Rao's®, Pasta OR Sauce, spend $10",,RAO'S,Sauces & Marinades,Pantry
+542,Michael Angelo's® Sauce at Walmart,WALMART,MICHAEL ANGELO'S,Sauces & Marinades,Pantry
+543,GOYA® Coconut Water,,GOYA,Sauces & Marinades,Pantry
+544,"GOYA® Adobo Seasoning, 8 ounce+",,GOYA,Sauces & Marinades,Pantry
+545,"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Sauces & Marinades,Pantry
+546,Tostitos® Toppers™,,TOSTITOS,Sauces & Marinades,Pantry
+547,"Sir Kensington's® Condiments, buy 2",,SIR KENSINGTONS,Sauces & Marinades,Pantry
+548,Sir Kensington's® Condiments,,SIR KENSINGTONS,Sauces & Marinades,Pantry
+549,Simply Organic Seasoning Mixes OR Spices,,SIMPLY ORGANIC,Sauces & Marinades,Pantry
+550,Red Gold Tomato Ketchup,,RED GOLD,Drink Mixes,Beverages
+551,Red Gold Tomato Juice,,RED GOLD,Drink Mixes,Beverages
+552,"Bai® Antioxidant, 6 pack, buy 2 at Walmart",WALMART,BAI,Drink Mixes,Beverages
+553,"Bai® Antioxidant, 6 pack, at Walmart",WALMART,BAI,Drink Mixes,Beverages
+554,GOYA® Coconut Water,,GOYA,Drink Mixes,Beverages
+555,"GOYA® Adobo Seasoning, 8 ounce+",,GOYA,Drink Mixes,Beverages
+556,Gillette Venus ® for Pubic Hair & Skin spend $20,,GILLETTE VENUS,Hair Removal,Health & Wellness
+557,Gillette Venus ® for Pubic Hair & Skin,,GILLETTE VENUS,Hair Removal,Health & Wellness
+558,"Gillette Venus ® for Pubic Hair & Skin, spend $20",,GILLETTE VENUS,Hair Removal,Health & Wellness
+559,"Burt's Bees Sensitive Lotions and Creams, select varieties, at Walmart",WALMART,BURTS BEES,Hair Removal,Health & Wellness
+560,"Burt's Bee's® Facial Wipes, select varieties, 30 count at Walmart",WALMART,BURTS BEES,Hair Removal,Health & Wellness
+561,"Burt's Bees® products, select varieties, at Walmart",WALMART,BURTS BEES,Hair Removal,Health & Wellness
+562,"Burt's Bees® Sensitive Lotions and Creams, select varieties, at Walmart",WALMART,BURTS BEES,Hair Removal,Health & Wellness
+563,"L'Oréal Paris Hair color, select varieties, spend $19 at Target",TARGET,LOREAL PARIS HAIR COLOR,Hair Care,Health & Wellness
+564,"L'Oréal Paris Men Expert hair color, spend $19 at Walmart",WALMART,LOREAL PARIS HAIR COLOR,Hair Care,Health & Wellness
+565,"L’Oréal Paris Men Expert hair color, spend $9 at Walmart",WALMART,LOREAL PARIS HAIR COLOR,Hair Care,Health & Wellness
+566,L'Oréal Paris Excellence Hair Color at Target,TARGET,LOREAL PARIS HAIR COLOR,Hair Care,Health & Wellness
+567,"L'Oréal Paris Hair color, select varieties, spend $25 at Target",TARGET,LOREAL PARIS HAIR COLOR,Hair Care,Health & Wellness
+568,"L'Oréal Paris Hair color, select varieties, spend $9 at Target",TARGET,LOREAL PARIS HAIR COLOR,Hair Care,Health & Wellness
+569,"Dove Hand Wash, select varieties, buy 2 at Target",TARGET,DOVE,Hair Care,Health & Wellness
+570,"Dove Hand Wash, select varieties at Target",TARGET,DOVE,Hair Care,Health & Wellness
+571,Fresh Step® Outstretch® Cat Litter,,FRESH STEP,Hair Care,Health & Wellness
+572,Simply Spiked™ Lemonade 12 pack+,,SIMPLY SPIKED,Malt Beverages,Alcohol
+573,"Simply Spiked™ Signature Peach 12-pack or larger, buy 2",,SIMPLY SPIKED,Malt Beverages,Alcohol
+574,Simply Spiked™ 12 pack+,,SIMPLY SPIKED,Malt Beverages,Alcohol
+575,Simply Spiked™ Signature Peach 12 pack+,,SIMPLY SPIKED,Malt Beverages,Alcohol
+576,"Coors Light®, Miller Lite® OR VIZZY™ 12 pack+",,VIZZY,Malt Beverages,Alcohol
+577,"Coors Light®, Miller Lite® OR VIZZY™ 12 packs+, buy 4",,VIZZY,Malt Beverages,Alcohol
+578,"Coors Light®, Miller Lite® OR VIZZY™ 12 packs+, buy 2",,VIZZY,Malt Beverages,Alcohol
+579,"Coors Light®, Miller Lite® OR VIZZY™ 12 packs+, buy 3",,VIZZY,Malt Beverages,Alcohol
+580,"Coors Light®, Miller Lite® OR VIZZY™ 12 packs+, buy 5",,VIZZY,Malt Beverages,Alcohol
+581,Spend $60 at TGI Friday's,TGI FRIDAYS,TGI FRIDAYS,Malt Beverages,Alcohol
+582,Spend $35 at TGI Friday's,TGI FRIDAYS,TGI FRIDAYS,Malt Beverages,Alcohol
+583,Spend $45 at TGI Friday's,TGI FRIDAYS,TGI FRIDAYS,Malt Beverages,Alcohol
+584,Spend $25 at TGI Friday's,TGI FRIDAYS,TGI FRIDAYS,Malt Beverages,Alcohol
+585,GOYA® Coconut Water,,GOYA,Malt Beverages,Alcohol
+586,"GOYA® Adobo Seasoning, 8 ounce+",,GOYA,Malt Beverages,Alcohol
+587,Simply Spiked™ Lemonade 12 pack+,,SIMPLY SPIKED,"Hard Seltzers, Sodas, Waters, Lemonades & Teas",Alcohol
+588,"Simply Spiked™ Signature Peach 12-pack or larger, buy 2",,SIMPLY SPIKED,"Hard Seltzers, Sodas, Waters, Lemonades & Teas",Alcohol
+589,Simply Spiked™ 12 pack+,,SIMPLY SPIKED,"Hard Seltzers, Sodas, Waters, Lemonades & Teas",Alcohol
+590,Simply Spiked™ Signature Peach 12 pack+,,SIMPLY SPIKED,"Hard Seltzers, Sodas, Waters, Lemonades & Teas",Alcohol
+591,"Coors Light®, Miller Lite® OR VIZZY™ 12 pack+",,VIZZY,"Hard Seltzers, Sodas, Waters, Lemonades & Teas",Alcohol
+592,"Coors Light®, Miller Lite® OR VIZZY™ 12 packs+, buy 4",,VIZZY,"Hard Seltzers, Sodas, Waters, Lemonades & Teas",Alcohol
+593,"Coors Light®, Miller Lite® OR VIZZY™ 12 packs+, buy 2",,VIZZY,"Hard Seltzers, Sodas, Waters, Lemonades & Teas",Alcohol
+594,"Coors Light®, Miller Lite® OR VIZZY™ 12 packs+, buy 3",,VIZZY,"Hard Seltzers, Sodas, Waters, Lemonades & Teas",Alcohol
+595,"Coors Light®, Miller Lite® OR VIZZY™ 12 packs+, buy 5",,VIZZY,"Hard Seltzers, Sodas, Waters, Lemonades & Teas",Alcohol
+596,"Molson Coors®, select varieties, 12 Pack+, buy 2",,TOPO CHICO HARD SELTZER,"Hard Seltzers, Sodas, Waters, Lemonades & Teas",Alcohol
+597,"Gorton's, at select retailers",SHOP RITE,GORTONS,Frozen Seafood,Frozen Meat
+598,"Gorton's Air Fried Butterfly Shrimp, at Walmart",WALMART,GORTONS,Frozen Seafood,Frozen Meat
+599,"Gorton's, at select retailers",STOP & SHOP,GORTONS,Frozen Seafood,Frozen Meat
+600,Gorton's at select retailers,STOP & SHOP,GORTONS,Frozen Seafood,Frozen Meat
+601,Gorton's at select retailers,WALMART,GORTONS,Frozen Seafood,Frozen Meat
+602,GOYA® Coconut Water,,GOYA,Frozen Seafood,Frozen Meat
+603,"GOYA® Adobo Seasoning, 8 ounce+",,GOYA,Frozen Seafood,Frozen Meat
+604,"Gorton's, at select retailers",SHOP RITE,GORTONS,Jerky & Dried Meat,Snacks
+605,"Gorton's Air Fried Butterfly Shrimp, at Walmart",WALMART,GORTONS,Jerky & Dried Meat,Snacks
+606,"Gorton's, at select retailers",STOP & SHOP,GORTONS,Jerky & Dried Meat,Snacks
+607,Gorton's at select retailers,STOP & SHOP,GORTONS,Jerky & Dried Meat,Snacks
+608,Gorton's at select retailers,WALMART,GORTONS,Jerky & Dried Meat,Snacks
+609,"Jack Link's®, select varieties",,JACK LINKS,Jerky & Dried Meat,Snacks
+610,"CESAR® Wet Dog Food, spend $20",,CESAR,Dog Supplies,Animals & Pet Supplies
+611,CESAR® Wet Dog Food Singles,,CESAR,Dog Supplies,Animals & Pet Supplies
+612,"Kradle, select varieties, spend $20 at Walmart",WALMART,KRADLE,Dog Supplies,Animals & Pet Supplies
+613,"Kradle, select products, online at Chewy.com",CHEWY,KRADLE,Dog Supplies,Animals & Pet Supplies
+614,"Kradle, select varieties, online at Amazon",AMAZON,KRADLE,Dog Supplies,Animals & Pet Supplies
+615,"Kradle, select varieties, at Pet Supplies Plus",PET SUPPLIES PLUS,KRADLE,Dog Supplies,Animals & Pet Supplies
+616,"CESAR® Wet Dog Food, spend $20",,CESAR,Frozen Chicken,Frozen Meat
+617,CESAR® Wet Dog Food Singles,,CESAR,Frozen Chicken,Frozen Meat
+618,"Cooked Perfect® Meatballs, at Walmart",WALMART,COOKED PERFECT,Frozen Chicken,Frozen Meat
+619,"Cooked Perfect® Meatballs, Homestyle OR Turkey, at Walmart",WALMART,COOKED PERFECT,Frozen Chicken,Frozen Meat
+620,GOYA® Coconut Water,,GOYA,Frozen Chicken,Frozen Meat
+621,"GOYA® Adobo Seasoning, 8 ounce+",,GOYA,Frozen Chicken,Frozen Meat
+622,"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Frozen Chicken,Frozen Meat
+623,"Perfect Keto Barista Blend Collagen & MCTs, online at Amazon",AMAZON,PERFECT KETO,Nuts & Seeds,Snacks
+624,"Perfect Keto Beauty + Sleep Collagen, online at Amazon",AMAZON,PERFECT KETO,Nuts & Seeds,Snacks
+625,"Perfect Keto Bars, online at Amazon",AMAZON,PERFECT KETO,Nuts & Seeds,Snacks
+626,"Perfect Keto Collagen Peptides, online at Amazon",AMAZON,PERFECT KETO,Nuts & Seeds,Snacks
+627,"Perfect Keto MCT Oil Powder, online at Amazon",AMAZON,PERFECT KETO,Nuts & Seeds,Snacks
+628,"Perfect Keto Super Reds, online at Amazon",AMAZON,PERFECT KETO,Nuts & Seeds,Snacks
+629,"Perfect Keto Exogenous Ketones Powder, online at Amazon",AMAZON,PERFECT KETO,Nuts & Seeds,Snacks
+630,"Beech-Nut snacks, select varieties",,BEECHNUT,Nuts & Seeds,Snacks
+631,"Beech-Nut pouches, buy 8",,BEECHNUT,Nuts & Seeds,Snacks
+632,:ratio™ KETO* Friendly Cereal OR Granola,,RATIO,Nuts & Seeds,Snacks
+633,Nature Valley™ Protein Granola,,NATURE VALLEY,Nuts & Seeds,Snacks
+634,"Tyson Products, select varieties, spend $20 at Sam's Club",SAMS CLUB,BALL PARK FRANK,Frozen Beef,Frozen Meat
+635,"L'Oréal Paris Makeup, spend $35 at Target",TARGET,LOREAL PARIS COSMETICS,Makeup,Beauty
+636,"L'Oréal Paris Makeup, spend $30 at Target",TARGET,LOREAL PARIS COSMETICS,Makeup,Beauty
+637,L'Oreal Paris True Match Foundation at Target,TARGET,LOREAL PARIS COSMETICS,Makeup,Beauty
+638,L'Oréal Paris True Match Foundation at Target,TARGET,LOREAL PARIS COSMETICS,Makeup,Beauty
+639,"Dove Hand Wash, select varieties, buy 2 at Target",TARGET,DOVE,Makeup,Beauty
+640,"Dove Hand Wash, select varieties at Target",TARGET,DOVE,Makeup,Beauty
+641,"Molson Coors®, select varieties, 12 pack+",,COORS LIGHT,Makeup,Beauty
+642,Fresh Step® Outstretch® Cat Litter,,FRESH STEP,Makeup,Beauty
+643,"Burt's Bees Sensitive Lotions and Creams, select varieties, at Walmart",WALMART,BURTS BEES,Makeup,Beauty
+644,"Burt's Bee's® Facial Wipes, select varieties, 30 count at Walmart",WALMART,BURTS BEES,Makeup,Beauty
+645,"Burt's Bees® products, select varieties, at Walmart",WALMART,BURTS BEES,Makeup,Beauty
+646,"Burt's Bees® Sensitive Lotions and Creams, select varieties, at Walmart",WALMART,BURTS BEES,Makeup,Beauty
+647,"Dixon® Safety Carpenter Pencil, 10 count, at Lowe’s®",LOWES HOME IMPROVEMENT,DIXON,Makeup,Beauty
+648,Any Vons receipt,VONS,VONS,Spirits,Alcohol
+649,Spend $150 at Vons,VONS,VONS,Spirits,Alcohol
+650,Spend $100 at Vons,VONS,VONS,Spirits,Alcohol
+651,Spend $275 at Vons,VONS,VONS,Spirits,Alcohol
+652,Shop 2 times at Vons,VONS,VONS,Spirits,Alcohol
+653,Spend $60 at TGI Friday's,TGI FRIDAYS,TGI FRIDAYS,Spirits,Alcohol
+654,Spend $35 at TGI Friday's,TGI FRIDAYS,TGI FRIDAYS,Spirits,Alcohol
+655,Spend $45 at TGI Friday's,TGI FRIDAYS,TGI FRIDAYS,Spirits,Alcohol
+656,Spend $25 at TGI Friday's,TGI FRIDAYS,TGI FRIDAYS,Spirits,Alcohol
+657,"Wine from TheBarrelRoom.com, spend $30",GALLO.COM,ALAMOS,Wine,Alcohol
+658,Little Bites® Spend $10 at Walmart®,WALMART,ENTENMANNS,Wine,Alcohol
+659,"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Wine,Alcohol
+660,"André® California, Champagne OR Sparkling Wines, 750mL bottle",,ANDRE,Wine,Alcohol
+661,"Bai® Antioxidant, 6 pack, buy 2 at Walmart",WALMART,BAI,Fruit Juices,Beverages
+662,"Bai® Antioxidant, 6 pack, at Walmart",WALMART,BAI,Fruit Juices,Beverages
+663,GOYA® Coconut Water,,GOYA,Fruit Juices,Beverages
+664,"GOYA® Adobo Seasoning, 8 ounce+",,GOYA,Fruit Juices,Beverages
+665,"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Fruit Juices,Beverages
+666,"SKITTLES®, select varieties",,SKITTLES,Fruit Juices,Beverages
+667,"SKITTLES®, select sizes",,SKITTLES,Fruit Juices,Beverages
+668,Spend $10 at CVS,CVS,CVS,Fruit Juices,Beverages
+669,Spend $30 at CVS,CVS,CVS,Fruit Juices,Beverages
+670,"Bai® Antioxidant, 6 pack, buy 2 at Walmart",WALMART,BAI,Water,Beverages
+671,"Bai® Antioxidant, 6 pack, at Walmart",WALMART,BAI,Water,Beverages
+672,Brita® Pitcher AND Filter,,BRITA,Water,Beverages
+673,Brita® Standard OR Elite Filters,,BRITA,Water,Beverages
+674,Brita® Pitcher OR Dispenser,,BRITA,Water,Beverages
+675,GOYA® Coconut Water,,GOYA,Water,Beverages
+676,"GOYA® Adobo Seasoning, 8 ounce+",,GOYA,Water,Beverages
+677,"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Water,Beverages
+678,"CORE® Hydration, select varieties, at Walmart",WALMART,CORE HYDRATION,Water,Beverages
+679,"CORE® Hydration, select varieties, buy 2 at Walmart",WALMART,CORE HYDRATION,Water,Beverages
+680,"Bai® Antioxidant, 6 pack, buy 2 at Walmart",WALMART,BAI,Tea,Beverages
+681,"Bai® Antioxidant, 6 pack, at Walmart",WALMART,BAI,Tea,Beverages
+682,"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Tea,Beverages
+683,"Back to the Roots Grow Seed Starting Pots OR Germination Trays, at Walmart or Target",TARGET,BACK TO THE ROOTS,Packaged Meals & Sides,Pantry
+684,"Back to the Roots Soils, select varieties and sizes, at Walmart",WALMART,BACK TO THE ROOTS,Packaged Meals & Sides,Pantry
+685,"Back to the Roots Dry Plant Food, 5 pounds, at The Home Depot",THE HOME DEPOT,BACK TO THE ROOTS,Packaged Meals & Sides,Pantry
+686,"Back to the Roots Garden Soil, 1 cubic foot, at Lowe's Home Improvement",LOWES HOME IMPROVEMENT,BACK TO THE ROOTS,Packaged Meals & Sides,Pantry
+687,"Back to the Roots Raised Bed Gardening Kit with Soil, Seeds and Plant Food, at Target",TARGET,BACK TO THE ROOTS,Packaged Meals & Sides,Pantry
+688,Back to the Roots Microgreens Grow Kit OR Seed Refill at Walmart,WALMART,BACK TO THE ROOTS,Packaged Meals & Sides,Pantry
+689,"Back to the Roots Soils, select varieties and sizes, at Lowes",LOWES HOME IMPROVEMENT,BACK TO THE ROOTS,Packaged Meals & Sides,Pantry
+690,"Back to the Roots Soils, select varieties, at Walmart or Lowes",LOWES HOME IMPROVEMENT,BACK TO THE ROOTS,Packaged Meals & Sides,Pantry
+691,Back to the Roots Grow Kits at Walmart or The Home Depot,WALMART,BACK TO THE ROOTS,Packaged Meals & Sides,Pantry
+692,Back to the Roots Grow Hydroponic Grow Kit OR Refill Bundle at Walmart,WALMART,BACK TO THE ROOTS,Packaged Meals & Sides,Pantry
+693,"Back to the Roots Seeds, at Walmart",WALMART,BACK TO THE ROOTS,Packaged Meals & Sides,Pantry
+694,"Back to the Roots Organic Kits and Planters, at Target",TARGET,BACK TO THE ROOTS,Packaged Meals & Sides,Pantry
+695,"Back to the Roots Potting Mix, 1 cubic foot, at Lowe's Home Improvement",LOWES HOME IMPROVEMENT,BACK TO THE ROOTS,Packaged Meals & Sides,Pantry
+696,"Back to the Roots Organic 3-In-1 Seed Starting Mix 12 quart, at Walmart or Target",TARGET,BACK TO THE ROOTS,Packaged Meals & Sides,Pantry
+697,"Back to the Roots Soils, select varieties, at Walmart",WALMART,BACK TO THE ROOTS,Packaged Meals & Sides,Pantry
+698,"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Packaged Meals & Sides,Pantry
+699,"Dove Hand Wash, select varieties, buy 2 at Target",TARGET,DOVE,Bath & Body,Health & Wellness
+700,"Dove Hand Wash, select varieties at Target",TARGET,DOVE,Bath & Body,Health & Wellness
+701,Fresh Step® Outstretch® Cat Litter,,FRESH STEP,Bath & Body,Health & Wellness
+702,"Dove Hand Wash, select varieties, buy 2 at Target",TARGET,DOVE,Deodorant & Antiperspirant,Health & Wellness
+703,"Dove Hand Wash, select varieties at Target",TARGET,DOVE,Deodorant & Antiperspirant,Health & Wellness
+704,Degree for Men OR Women Dry Spray,,DEGREE,Deodorant & Antiperspirant,Health & Wellness
+705,"Frutero Ice Cream, 1 pint",,FRUTERO,Frozen Fruits,Frozen
+706,GOYA® Coconut Water,,GOYA,Frozen Fruits,Frozen
+707,"GOYA® Adobo Seasoning, 8 ounce+",,GOYA,Frozen Fruits,Frozen
+708,"Bio-Oil® Skincare Oil OR Gel, select varieties",,BIO OIL,Skin Care,Health & Wellness
+709,"Bio-Oil® products, select varieties",,BIO OIL,Skin Care,Health & Wellness
+710,"Burt's Bees Sensitive Lotions and Creams, select varieties, at Walmart",WALMART,BURTS BEES,Skin Care,Health & Wellness
+711,"Burt's Bee's® Facial Wipes, select varieties, 30 count at Walmart",WALMART,BURTS BEES,Skin Care,Health & Wellness
+712,"Burt's Bees® products, select varieties, at Walmart",WALMART,BURTS BEES,Skin Care,Health & Wellness
+713,"Burt's Bees® Sensitive Lotions and Creams, select varieties, at Walmart",WALMART,BURTS BEES,Skin Care,Health & Wellness
+714,Spend $10 at CVS,CVS,CVS,Skin Care,Health & Wellness
+715,Spend $30 at CVS,CVS,CVS,Skin Care,Health & Wellness
+716,"Molson Coors®, select varieties, 12 pack+",,COORS LIGHT,Beer,Alcohol
+717,Sol® 6 pack+,,SOL CERVEZA,Beer,Alcohol
+718,"Marinela® sweet baked goods, buy 2",,MARINELA,Snack Cakes,Snacks
+719,Little Bites® Spend $10 at Walmart®,WALMART,ENTENMANNS,Snack Cakes,Snacks
+720,"Bimbo® sweet baked goods, buy 2",,BIMBO,Snack Cakes,Snacks
+721,"Purex® laundry detergent, select varieties, at Walmart",WALMART,PUREX,Laundry Supplies,Household Supplies
+722,"Michael Angelo's® OR Rao's® Frozen Entrees, spend $10",,RAO'S,Alfredo & White Pasta Sauce,Pasta Sauce
+723,Rao's® Frozen Pizza,,RAO'S,Alfredo & White Pasta Sauce,Pasta Sauce
+724,"Rao's®, Pasta OR Sauce, spend $10",,RAO'S,Alfredo & White Pasta Sauce,Pasta Sauce
+725,"Michael Angelo's® OR Rao's® Frozen Entrees, spend $10",,RAO'S,Pasta & Noodles,Pantry
+726,Rao's® Frozen Pizza,,RAO'S,Pasta & Noodles,Pantry
+727,"Rao's®, Pasta OR Sauce, spend $10",,RAO'S,Pasta & Noodles,Pantry
+728,GOYA® Coconut Water,,GOYA,Pasta & Noodles,Pantry
+729,"GOYA® Adobo Seasoning, 8 ounce+",,GOYA,Pasta & Noodles,Pantry
+730,"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Pasta & Noodles,Pantry
+731,"STARBURST®, select sizes, buy 1",,STARBURST,Gum,Candy
+732,"STARBURST®, select varieties",,STARBURST,Gum,Candy
+733,"RESPAWN® by 5® GUM, at Walmart",WALMART,5 GUM,Gum,Candy
+734,"EXTRA®, select varieties",,EXTRA,Gum,Candy
+735,"EXTRA®, select sizes",,EXTRA,Gum,Candy
+736,"ORBIT®, select sizes, buy 1",,ORBIT,Gum,Candy
+737,"ORBIT®, select varieties",,ORBIT,Gum,Candy
+738,"Durex® Massage & Play 2 in 1 Pleasure Gel, select varieties, at Walmart or Target",TARGET,DUREX,Sexual Health,Health & Wellness
+739,Brita® Pitcher AND Filter,,BRITA,Household Supplies,Household Supplies
+740,Brita® Standard OR Elite Filters,,BRITA,Household Supplies,Household Supplies
+741,Brita® Pitcher OR Dispenser,,BRITA,Household Supplies,Household Supplies
+742,"Glad® Trash Bags, 4 OR 8 Gallon",,GLAD,Household Supplies,Household Supplies
+743,Glad® ForceFlex Max Strength Trash Bags,,GLAD,Household Supplies,Household Supplies
+744,"Snuggle® Liquid Fabric Softener, at Walmart",WALMART,SNUGGLE,Household Supplies,Household Supplies
+745,"Super Coffee, 12 ounce single serve, buy 3",,SUPER COFFEE,Coffee,Beverages
+746,"Super Coffee, 12 ounce single serve",,SUPER COFFEE,Coffee,Beverages
+747,"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Coffee,Beverages
+748,Cameron’s Coffee EcoPods,,CAMERON'S COFFEE,Coffee,Beverages
+749,GOYA® Coconut Water,,GOYA,Rice & Grains,Pantry
+750,"GOYA® Adobo Seasoning, 8 ounce+",,GOYA,Rice & Grains,Pantry
+751,GOYA® Coconut Water,,GOYA,Frozen Vegetables,Frozen
+752,"GOYA® Adobo Seasoning, 8 ounce+",,GOYA,Frozen Vegetables,Frozen
+753,GOYA® Coconut Water,,GOYA,Frozen Appetizers,Frozen
+754,"GOYA® Adobo Seasoning, 8 ounce+",,GOYA,Frozen Appetizers,Frozen
+755,GOYA® Coconut Water,,GOYA,Pickled Goods,Pantry
+756,"GOYA® Adobo Seasoning, 8 ounce+",,GOYA,Pickled Goods,Pantry
+757,"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Pickled Goods,Pantry
+758,GOYA® Coconut Water,,GOYA,Deli Counter,Deli & Bakery
+759,"GOYA® Adobo Seasoning, 8 ounce+",,GOYA,Deli Counter,Deli & Bakery
+760,GOYA® Coconut Water,,GOYA,Milk,Dairy
+761,"GOYA® Adobo Seasoning, 8 ounce+",,GOYA,Milk,Dairy
+762,"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Milk,Dairy
+763,"Promised Land Dairy Milk, 52-ounce",,PROMISED LAND DAIRY,Milk,Dairy
+764,GOYA® Coconut Water,,GOYA,Pudding & Gelatin,Snacks
+765,"GOYA® Adobo Seasoning, 8 ounce+",,GOYA,Pudding & Gelatin,Snacks
+766,GOYA® Coconut Water,,GOYA,Packaged Seafood,Pantry
+767,"GOYA® Adobo Seasoning, 8 ounce+",,GOYA,Packaged Seafood,Pantry
+768,"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Leafy Salads,Deli & Bakery
+769,"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Packaged Fruit & Applesauce,Pantry
+770,"Colgate® Toothpaste AND Colgate® Toothbrush, select varieties at Walmart or Target",TARGET,COLGATE TOOTHBRUSHES,Oral Care,Health & Wellness
+771,"Glad® Trash Bags, 4 OR 8 Gallon",,GLAD,Food Storage,Household Supplies
+772,Glad® ForceFlex Max Strength Trash Bags,,GLAD,Food Storage,Household Supplies
+773,:ratio™ KETO* Friendly Cereal OR Granola,,RATIO,Yogurt,Dairy
+774,Nature Valley™ Protein Granola,,NATURE VALLEY,Trail Mix,Snacks
+775,"Breyers Reese's Ice Cream, select varieties, at GIANT OR MARTIN’S",MARTINS FOODS,BREYERS,Frozen Breads & Doughs,Frozen

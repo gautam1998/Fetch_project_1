@@ -1,0 +1,39 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "OFFER": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "RETAILER": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "BRAND": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "PRODUCT_CATEGORY": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "IS_CHILD_CATEGORY_TO": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "embeddings": {
+      "feature": {
+        "dtype": "float32",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
