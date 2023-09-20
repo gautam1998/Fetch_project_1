@@ -1,6 +1,5 @@
 transformers
 datasets
-faiss-gpu
 faiss-cpu
 gradio
 streamlit
