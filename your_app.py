@@ -34,7 +34,7 @@ def main():
     st.title("Search Engine")
 
     # Load the embeddings dataset
-    dataset = load_from_disk("/data/processed/embeddings.hf")
+    dataset = load_from_disk("data/processed/embeddings.hf")
 
     # Text input for user to enter a query
     user_query = st.text_input("Enter your query:")
