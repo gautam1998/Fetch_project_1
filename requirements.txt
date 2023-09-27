@@ -1,8 +1,6 @@
-torch 
-torchvision
-tensorflow
 transformers
 datasets
 faiss-cpu
 gradio
 streamlit
+torch
