@@ -10,6 +10,8 @@ The task is to work with a dataset of offers and associated metadata related to 
 
 ## Hosted URL
 
+https://fetchproject1-emfeff7neycw5py9xhz6ah.streamlit.app/
+
 ## Running the code
 
 To create a virtual environment and install the required dependencies, follow these steps:
