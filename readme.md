@@ -8,6 +8,7 @@ This repository contains the code for a take-home challenge for the role of Data
 
 The task is to work with a dataset of offers and associated metadata related to the retailers and brands sponsoring these offers. Additionally, there's a dataset listing the brands supported on the platform, along with their corresponding product categories.
 
+## Hosted URL
 
 ## Running the code
 
@@ -22,8 +23,7 @@ To create a virtual environment and install the required dependencies, follow th
    
    pip install -r requirements.txt
 
-   streamlit run model_serving.py
-   #python model_serving_gradio.py
+   streamlit run your_app.py 
 
 
 ## Approach
